@@ -23,3 +23,8 @@ You can download the original datasource here:[Movie_Dataset_Excel_file](https:/
 1. Power Query - I used Power Query for Data Cleaning
 2. Excel - I used Excel for Data Analysis
 3. Pivot Tables - for Creating the dashboard and Visualizations
+   
+### Data Cleaning
+- Data loading and inspection.
+- Handling errors, missing values.
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - 
