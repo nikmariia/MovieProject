@@ -18,3 +18,4 @@ Your task is to build an Excel dashboard that provides insights into this datase
 The final dashboard should be clear, interactive, and visually compelling, enabling Netflix to make data-driven decisions.
 ### Data Source
 Movie Data : The primary dataset used for this analysis is the "Movie Data Homework.xlsx" file, containing detailed information about each movie's performance (box office and budget), actors, directors and genres. You can download the original datasource here: Movie Dataset Excel file
+You can download the original datasource here:[Movie_Dataset_Excel_file](https://github.com/user-attachments/files/27261247/Movies_Data_Homework_Mariia.Nikolskaia.xlsx)
