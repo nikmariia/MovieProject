@@ -27,4 +27,5 @@ You can download the original datasource here:[Movie_Dataset_Excel_file](https:/
 ### Data Cleaning
 - Data loading and inspection.
 - Handling errors, missing values.
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - 
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here - [Movie_Dashbords](https://github.com/user-attachments/files/27261908/Dashbords_Movies_Data_Homework_Mariia.Nikolskaia-ready.xlsx)
+### Dashboard
